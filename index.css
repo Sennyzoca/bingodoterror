@@ -1,0 +1,19 @@
+body {
+    color: black;
+    background-color: #991111;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    align-items: center;
+}
+
+img {
+    border-radius: 5%;
+    border: 5px solid #ac1515
+}
